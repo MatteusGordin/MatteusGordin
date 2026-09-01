@@ -1,16 +1,52 @@
-## Hi there 👋
+# Olá! Me chamo Matteus Gordin
 
-<!--
-**MattGordin/MattGordin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Desenvolvedor Full Stack Júnior | Entusiasta em Cibersegurança
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como Técnico de TI e Desenvolvedor na Prefeitura de Benevides.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente desenvolvendo **Sistemas SaaS para clínicas** e soluções de gestão pública.
+- 🌱 Focado no ecossistema **Java (Spring Boot)**, **React** e **PostgreSQL**, e grande interesse em **Ethical Hacking**.
+- 👯 Buscando colaborar em projetos open source e ferramentas educacionais.
+- 📍 Belém / Benevides, Pará - Brasil
+
+---
+
+🛠️ Linguagens e Ferramentas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+</div>
+
+---
+
+📊 Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MattGordin&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattGordin&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Linguagens Mais Usadas"/>
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Animação criativa para o perfil -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM2M4Y2ZjY2JiYmNiNmI5YmRjYmZkZDBiZTg2YjBlNmI5NWY5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iDadb19b/giphy.gif" width="180" alt="Animated Tech GIF" />
+  <br><br>
+  <i>Always ready to build secure and scalable solutions. Let's connect! 🚀</i>
+  <br><br>
+  <a href="https://www.linkedin.com/in/matteus-gordin-301599161" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
