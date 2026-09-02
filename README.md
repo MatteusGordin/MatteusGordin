@@ -1,4 +1,4 @@
-# Olá! Me chamo Matteus Gordin
+# Olá, Me chamo Matteus Gordin!
 
 # Desenvolvedor Full Stack Júnior | Entusiasta em Cibersegurança
 
@@ -31,20 +31,23 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como Técnico
 
 ---
 
-📊 Estatísticas
+<!-- 
+Quando você tiver repositórios públicos, basta descomentar (tirar essas setas) este bloco abaixo:
+
+### 📊 Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MattGordin&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Estatísticas do GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattGordin&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Linguagens Mais Usadas"/>
 </div>
+-->
 
 <br>
 
 <div align="center">
-  <!-- Animação criativa para o perfil -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2QzM2M4Y2ZjY2JiYmNiNmI5YmRjYmZkZDBiZTg2YjBlNmI5NWY5ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iDadb19b/giphy.gif" width="180" alt="Animated Tech GIF" />
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="200" alt="Animated Terminal" />
   <br><br>
-  <i>Always ready to build secure and scalable solutions. Let's connect! 🚀</i>
+  <i>Sempre pronto para construir soluções seguras e escaláveis. Vamos nos conectar! 🚀</i>
   <br><br>
   <a href="https://www.linkedin.com/in/matteus-gordin-301599161" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
