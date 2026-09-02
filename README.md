@@ -2,7 +2,7 @@
 
 # Desenvolvedor Full Stack Júnior | Entusiasta em Cibersegurança
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e atuo como Técnico de TI e Desenvolvedor na Prefeitura de Benevides.
+Sou estudante do 4º período de **Análise e Desenvolvimento de Sistemas** e atuo como Técnico de TI e Desenvolvedor na Prefeitura de Benevides.
 
 - 🔭 Atualmente desenvolvendo **Sistemas SaaS para clínicas** e soluções de gestão pública.
 - 🌱 Focado no ecossistema **Java (Spring Boot)**, **React** e **PostgreSQL**, e grande interesse em **Ethical Hacking**.
